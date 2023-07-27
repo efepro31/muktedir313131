@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Jul 2023 18:48:52 at https://mosfields.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://mosfields.com/ -O1 "C:\Users\PC\Desktop\spo\a" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:49:39	Error: 	"Not Found" (404) at link https://mosfields.com/favicon.ico (from https://mosfields.com/)
+18:49:58	Error: 	"Not Found" (404) at link https://mosfields.com/chrome-extension:/mcgbeeipkmelnpldkobichboakdfaeon/css/Roboto-Regular.ttf (from https://mosfields.com/)
+18:49:58	Error: 	"Not Found" (404) at link https://mosfields.com/css2?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Metal+Mania&display=swap (from https://mosfields.com/)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/public/images/sharedfiles/icons/icon_warning.png (from https://mosfields.com/public/css/applications/store/chunk~618b6ee4b.css?contenthash=9c190e4437066a04537c)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/others/btn-bg.html (from https://mosfields.com/css/css-style.css)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/icon/navigation-bg1.html (from https://mosfields.com/css/css-style.css)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/icon/navigation-bg2.html (from https://mosfields.com/css/css-style.css)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/others/btn-signup.html (from https://mosfields.com/css/css-style.css)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/others/menu_shape.html (from https://mosfields.com/css/css-style.css)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/icon/facebook-bg.html (from https://mosfields.com/css/css-style.css)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/icon/dribble.html (from https://mosfields.com/css/css-style.css)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/icon/youtobe-bg.html (from https://mosfields.com/css/css-style.css)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/icon/twittre.html (from https://mosfields.com/css/css-style.css)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/others/text-mini-shape.html (from https://mosfields.com/css/css-style.css)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/others/tam-text-shape2.html (from https://mosfields.com/css/css-style.css)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/others/tam-text-shape.html (from https://mosfields.com/css/css-style.css)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/icon/navigation-bg3.html (from https://mosfields.com/css/css-style.css)
+18:50:55	Error: 	"Not Found" (404) at link https://mosfields.com/img/icon/navigation-bg4.html (from https://mosfields.com/css/css-style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 3 seconds : 78 links scanned, 59 files written (45745066 bytes overall), 59 files updated [46100252 bytes received at 374798 bytes/sec]
+(18 errors, 0 warnings, 0 messages)
